@@ -34,7 +34,7 @@ public class Main {
 
          boolean q = false;
         Scanner scanner = new Scanner(System.in);
-        while (q=true){
+        while (q==true){
         System.out.println("1");
         String user= scanner.next();
              if (user.equals("start")){
